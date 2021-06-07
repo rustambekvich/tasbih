@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    height: 100vh;
+    padding-top: 200px;
+    background:url(https://i.ytimg.com/vi/wBlqc0uwjXU/maxresdefault.jpg)no-repeat center center / cover;
+}
+
+.h{
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 40px;
+   color: red;
+  }
+  .tnum{
+      margin-top: 40px;
+  }
+  
+ 
+  .main {
+  
+  text-align: center;
+  
+  }
+  
+  #tnum{
+    display: inline-block;
+    border: 5px solid #1976e0;
+    padding: 110px 126px 110px 126px;
+    border-radius: 63%;
+    font-size: 60px;
+  
+  }
+  .display{
+      color: red;
+  }
+  
+  .btnwrap{
+  
+    margin-top: 20px;
+  
+  }
+  
+  .tbtn{
+  
+    padding: 15px 50px 15px 50px;
+    border-radius: 30px;
+    border: none;
+    background-color: #19171a;
+    color: #fff;
+    font-size: 22px;
+    margin: 10px;
+    cursor:pointer;
+    -webkit-box-shadow: 0px 0px 33px 3px rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0px 0px 33px 3px rgba(0, 0, 0, 0.19);
+    box-shadow: 0px 0px 33px 3px rgba(0, 0, 0, 0.19);
+  
+  }
+  
+  .rbtn {
+  
+    padding: 15px 50px 15px 50px;
+    border-radius: 30px;
+    border: none;
+    background-color: #052831;
+    color: #fff;
+    font-size: 22px;
+    margin: 10px;
+    cursor:pointer;
+    -webkit-box-shadow: 0px 0px 33px 3px rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0px 0px 33px 3px rgba(0, 0, 0, 0.19);
+    box-shadow: 0px 0px 33px 3px rgba(0, 0, 0, 0.19);
+  }
